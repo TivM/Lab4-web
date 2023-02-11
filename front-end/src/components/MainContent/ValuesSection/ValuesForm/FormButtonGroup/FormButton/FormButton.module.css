@@ -1,0 +1,15 @@
+.form-button {
+    width: 100%;
+    font-family: "Open Sans", "Arial", sans-serif;
+    background-color: #c8b5e9;
+    border: none;
+  }
+  
+  .form-button:hover:not(.form-button_active) {
+    background-color: #a895c9;
+  }
+  
+  .form-button_active {
+    color: #ffffff;
+    background-color: #6c43af;
+  }
